@@ -1,0 +1,1 @@
+# easyduck.github.io
