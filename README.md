@@ -1,1 +1,1 @@
-# easyduck.github.io
+# just redirect
